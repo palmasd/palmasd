@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Soy un desarrollador en formación especializado en Desarrollo de Aplicaciones Multiplataforma (DAM). Actualmente, estoy aprendiendo .</p>
+<p align="left">Soy un desarrollador en formación especializado en Desarrollo de Aplicaciones Multiplataforma (DAM). Actualmente, estoy aprendiendo</p>
 
 ###
 
